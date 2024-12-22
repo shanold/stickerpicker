@@ -1,6 +1,7 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "bluey.json"
   ],
   "homeserver_url": "https://matrix.shaneandsierra.com"
 }
